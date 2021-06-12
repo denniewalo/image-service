@@ -1,0 +1,19 @@
+{
+  "name": "image-service",
+  "version": "1.0.0",
+  "description": "Image-service REST-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqneko/image-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hqneko/image-service/issues"
+  },
+  "homepage": "https://github.com/hqneko/image-service#readme"
+}
